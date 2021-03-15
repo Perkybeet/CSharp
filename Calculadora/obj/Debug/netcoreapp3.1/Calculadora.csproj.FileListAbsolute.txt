@@ -1,0 +1,15 @@
+D:\Programacion\Calculadora3\bin\Debug\netcoreapp3.1\Calculadora.exe
+D:\Programacion\Calculadora3\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+D:\Programacion\Calculadora3\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+D:\Programacion\Calculadora3\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+D:\Programacion\Calculadora3\bin\Debug\netcoreapp3.1\Calculadora.dll
+D:\Programacion\Calculadora3\bin\Debug\netcoreapp3.1\Calculadora.pdb
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora3.Form1.resources
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.csproj.GenerateResource.cache
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.dll
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.pdb
+D:\Programacion\Calculadora3\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
